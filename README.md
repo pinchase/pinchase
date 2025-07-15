@@ -20,6 +20,66 @@ I'm **pinchase** — a passionate developer, tech enthusiast, and lifelong learn
 
 ---
 
+
+
+
+
+
+## 📁 Featured Projects
+
+### 🚌 Bus Booking System
+A Django-based platform solving long queues in Nairobi by allowing online bus ride booking.
+**Stack:** Django, MySQL, HTML, CSS, JavaScript  
+[🔗 View Project](https://github.com/pinchase/bus-booking-system)
+
+---
+
+### 🎓 School Management Platform
+A full-stack system with student registration, teacher modules, and parent access.
+**Stack:** Django, MySQL, HTML/CSS/JS  
+[🔗 View Project](https://github.com/pinchase/school-mgmt)
+
+---
+
+### ⏰ Doctor’s Appointment Management
+A backend-driven appointment booking system with SMS reminders.
+**Stack:** Django, Twilio API, MySQL  
+[🔗 View Project](https://github.com/pinchase/doctor-appointment)
+
+
+
+
+## 🧠 My Learning Journey
+
+Currently diving deep into:
+- 🔹 JavaScript (DOM, APIs, Async/Await)
+- 🔹 Django (REST Framework, Models, Auth)
+- 🔹 UI/UX Design (Figma, Design Systems)
+- 🔹 Git & GitHub (Contributions, Issues, PRs)
+
+Next up:
+- 🔸 React.js
+- 🔸 Docker
+
+
+## 🧪 Ongoing Experiments
+
+- 🔄 Building an API-based Movie Finder App
+- 🧭 Designing a dynamic portfolio with animations
+- 📈 Automating a market data tracker with Python
+
+
+## 🎯 2025 Goals
+
+- ✅ Land a freelance or part-time backend dev role
+- ✅ Contribute to 3 open-source repos
+- 🔄 Publish my first full-stack SaaS side project
+- 🔄 Master React.js and Tailwind CSS
+
+
+
+
+
 ## 🛠️ Skills & Tech Stack
 
 [![Python](https://img.shields.io/badge/Python-3.x-yellow?style=flat-square&logo=python)](https://python.org)
@@ -34,6 +94,20 @@ I'm **pinchase** — a passionate developer, tech enthusiast, and lifelong learn
 [![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/pinchase)
 
 ---
+
+
+
+
+
+
+
+## 💬 Feedback
+
+> *"pinchase is insanely consistent and always delivers with clean code and attention to detail."*  
+— *TunaresQ Dev Team Lead*
+
+> *"We collaborated on a school system, and I’d work with him again 100%."*  
+— *Dev peer from KCA*
 
 ## 📈 GitHub Stats
 
