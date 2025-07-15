@@ -1,113 +1,95 @@
 # 👋 Hi there, Welcome to my GitHub Profile!
 
-I'm **pinchase** — a passionate developer, tech enthusiast, and lifelong learner from KCA University.
+I'm **KAGIRI PETERSON AlIaS Pinchase** — an ICT student at KCA University, Backend Intern at TunaresQ, and a future full-stack beast in the making 💻🌍.
 
 [![Made by pinchase](https://img.shields.io/badge/Made%20with❤️%20by-pinchase-blue?style=flat-square)](https://github.com/pinchase)
-[![Intern at TunaresQ](https://img.shields.io/badge/Role-Backend%20Intern%20@%20TunaresQ-purple?style=flat-square)](https://github.com/pinchase)
-[![ICT Student](https://img.shields.io/badge/Student-KCA%20University-orange?style=flat-square)](https://kca.ac.ke)
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/peterson-kagiri-2893742a1) 
-[![Twitter](https://img.shields.io/badge/Tweets-%40pinchase-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/pin_chase) 
+[![Backend Intern](https://img.shields.io/badge/Role-Backend%20Dev%20Intern-purple?style=flat-square)](https://github.com/pinchase)
+[![Student](https://img.shields.io/badge/Student-KCA%20University-orange?style=flat-square)](https://kca.ac.ke)
+[![Python](https://img.shields.io/badge/Python-3.x-yellow?style=flat-square&logo=python)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-Web%20Framework-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 ---
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on personal and collaborative software projects to sharpen my skills and contribute to the tech community.
-- 🌱 Learning Django, Python, JavaScript, and exploring full-stack development.
-- 👯 Looking to collaborate on open-source, community-driven, and impactful tech ideas.
-- 💬 Ask me about backend dev, frontend basics, or anything code-related!
-- 📫 Reach me via [GitHub](https://github.com/pinchase) or [email](mailto:kagiripeterson8404.com)
-- ⚡ Fun fact: Every bug I squash makes me feel like a digital ninja.
+- 🔭 Working on personal + collaborative software projects to build experience and community value.
+- 🌱 Deep diving into full-stack dev with Django, JS, and modern frontend practices.
+- 👯 Always down to collaborate on open source and dope ideas.
+- 💬 Hit me up to talk tech, backend systems, or startups.
+- 📫 Reach me via [GitHub](https://github.com/pinchase) or email (kagiripeterson8404@gmail.com).
+- ⚡ Fun fact: I write clean code but make dirty jokes (😅... just in dev chats).
 
 ---
-
-
-
-
-
 
 ## 📁 Featured Projects
 
-### 🚌 Bus Booking System
-A Django-based platform solving long queues in Nairobi by allowing online bus ride booking.
-**Stack:** Django, MySQL, HTML, CSS, JavaScript  
-[🔗 View Project](https://github.com/pinchase/bus-booking-system)
+### 🚌 **Bus Booking System**
+> A platform tackling long queues in Nairobi through online bus booking.
+
+- 🔧 **Stack:** Django, MySQL, JavaScript, HTML/CSS  
+- 🔗 [View Repo](https://github.com/pinchase/bus-booking-system)
 
 ---
 
-### 🎓 School Management Platform
-A full-stack system with student registration, teacher modules, and parent access.
-**Stack:** Django, MySQL, HTML/CSS/JS  
-[🔗 View Project](https://github.com/pinchase/school-mgmt)
+### 🎓 **School Management Platform**
+> System for registering students, assigning teachers, and connecting with parents.
+
+- 🔧 **Stack:** Django, MySQL, Bootstrap, Vanilla JS  
+- 🔗 [View Repo](https://github.com/pinchase/school-mgmt)
 
 ---
 
-### ⏰ Doctor’s Appointment Management
-A backend-driven appointment booking system with SMS reminders.
-**Stack:** Django, Twilio API, MySQL  
-[🔗 View Project](https://github.com/pinchase/doctor-appointment)
+### 🩺 **Doctor Appointment Manager**
+> Patients book appointments online and get SMS reminders before visit.
 
+- 🔧 **Stack:** Django, Twilio API, MySQL  
+- 🔗 [View Repo](https://github.com/pinchase/doctor-appointment)
 
+---
 
+### 🧑‍🌾 **Agro-Tourism & Farming Hub**
+> All-in-one platform for tours, shops, and farming showcases.
+
+- 🔧 **Stack:** Django, HTML, CSS, JS  
+- 🔗 [View Repo](https://github.com/pinchase/agrotour-hub)
+
+---
 
 ## 🧠 My Learning Journey
 
-Currently diving deep into:
-- 🔹 JavaScript (DOM, APIs, Async/Await)
-- 🔹 Django (REST Framework, Models, Auth)
-- 🔹 UI/UX Design (Figma, Design Systems)
-- 🔹 Git & GitHub (Contributions, Issues, PRs)
+Currently learning:
 
-Next up:
-- 🔸 React.js
-- 🔸 Docker
+- ✅ Django + REST APIs
+- ✅ JavaScript (async, fetch API, ES6+)
+- ✅ UI/UX design (Figma, wireframes, mockups)
+- ✅ Git workflows (PRs, branching, contributions)
 
+Coming up next:
 
-## 🧪 Ongoing Experiments
-
-- 🔄 Building an API-based Movie Finder App
-- 🧭 Designing a dynamic portfolio with animations
-- 📈 Automating a market data tracker with Python
-
-
-## 🎯 2025 Goals
-
-- ✅ Land a freelance or part-time backend dev role
-- ✅ Contribute to 3 open-source repos
-- 🔄 Publish my first full-stack SaaS side project
-- 🔄 Master React.js and Tailwind CSS
-
-
-
-
-
-## 🛠️ Skills & Tech Stack
-
-[![Python](https://img.shields.io/badge/Python-3.x-yellow?style=flat-square&logo=python)](https://python.org)
-[![Django](https://img.shields.io/badge/Django-Backend%20Framework-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML](https://img.shields.io/badge/HTML5-Structure-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
-[![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Git](https://img.shields.io/badge/Git-VersionControl-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/pinchase)
+- 🔄 React.js
+- 🔄 Docker & deployment (Heroku, Render, etc.)
+- 🔄 Automated testing in Django
 
 ---
 
+## 🧪 Ongoing Experiments
 
+- 🚧 Building a personal dynamic portfolio with animations
+- 📦 API-based movie finder with JS + free movie APIs
+- 🧪 Experimenting with frontend transitions using TailwindCSS
 
+---
 
+## 🎯 2025 Goals
 
+- ✅ Land freelance/backend jobs on Upwork
+- ✅ Launch at least 2 production-ready full-stack apps
+- 🔄 Join 3+ open-source projects
+- 🔄 Master React and ship a custom portfolio site
+- 🔄 Build and host a REST API with CI/CD
 
-
-## 💬 Feedback
-
-> *"pinchase is insanely consistent and always delivers with clean code and attention to detail."*  
-— *TunaresQ Dev Team Lead*
-
-> *"We collaborated on a school system, and I’d work with him again 100%."*  
-— *Dev peer from KCA*
+---
 
 ## 📈 GitHub Stats
 
@@ -119,9 +101,20 @@ Next up:
 ## 🌐 Connect with Me
 
 - [GitHub](https://github.com/pinchase)
-- [LinkedIn](www.linkedin.com/in/peterson-kagiri-2893742a1)
-- [Twitter](https://twitter.com/pin_chase)
+- [LinkedIn](https://linkedin.com/in/peterson-kagiri)
+- [Twitter](https://twitter.com/pin_chase) 
+- [Portfolio](https://mohpinchase.github.io/Final_portifolio/)
 
 ---
 
-*Thank you for visiting my profile! Let’s build something amazing together 🚀*
+## 💬 Feedback
+
+> *"pinchase is sharp, consistent, and always pushes for clean code with purpose."*  
+— *TunaresQ Dev Team*
+
+> *"Solid backend guy. Helped us solve our project deadline with Django APIs that just worked."*  
+— *Fellow student @KCA*
+
+---
+
+*Thank you for scrolling this far. Let’s build together, collab on something fresh, or just vibe over code ☕.*
