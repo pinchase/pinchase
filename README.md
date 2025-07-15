@@ -5,7 +5,7 @@ I'm **pinchase** — a passionate developer, tech enthusiast, and lifelong learn
 [![Made by pinchase](https://img.shields.io/badge/Made%20with❤️%20by-pinchase-blue?style=flat-square)](https://github.com/pinchase)
 [![Intern at TunaresQ](https://img.shields.io/badge/Role-Backend%20Intern%20@%20TunaresQ-purple?style=flat-square)](https://github.com/pinchase)
 [![ICT Student](https://img.shields.io/badge/Student-KCA%20University-orange?style=flat-square)](https://kca.ac.ke)
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/peterson-kagiri) 
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/peterson-kagiri-2893742a1) 
 [![Twitter](https://img.shields.io/badge/Tweets-%40pinchase-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/pin_chase) 
 ---
 
@@ -45,7 +45,7 @@ I'm **pinchase** — a passionate developer, tech enthusiast, and lifelong learn
 ## 🌐 Connect with Me
 
 - [GitHub](https://github.com/pinchase)
-- [LinkedIn](https://linkedin.com/in/peterson kagiri)
+- [LinkedIn](www.linkedin.com/in/peterson-kagiri-2893742a1)
 - [Twitter](https://twitter.com/pin_chase)
 
 ---
