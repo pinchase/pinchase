@@ -30,7 +30,7 @@ I'm **KAGIRI PETERSON AlIaS Pinchase** — an ICT student at KCA University, Bac
 - 🔧 **Stack:** Django, MySQL, JavaScript, HTML/CSS  
 - 🔗 [View Repo](https://github.com/pinchase/bus-booking-system)
 
----
+
 
 ### 🎓 **School Management Platform**
 > System for registering students, assigning teachers, and connecting with parents.
@@ -38,7 +38,7 @@ I'm **KAGIRI PETERSON AlIaS Pinchase** — an ICT student at KCA University, Bac
 - 🔧 **Stack:** Django, MySQL, Bootstrap, Vanilla JS  
 - 🔗 [View Repo](https://github.com/pinchase/school-mgmt)
 
----
+
 
 ### 🩺 **Doctor Appointment Manager**
 > Patients book appointments online and get SMS reminders before visit.
@@ -46,7 +46,7 @@ I'm **KAGIRI PETERSON AlIaS Pinchase** — an ICT student at KCA University, Bac
 - 🔧 **Stack:** Django, Twilio API, MySQL  
 - 🔗 [View Repo](https://github.com/pinchase/doctor-appointment)
 
----
+
 
 ### 🧑‍🌾 **Agro-Tourism & Farming Hub**
 > All-in-one platform for tours, shops, and farming showcases.
