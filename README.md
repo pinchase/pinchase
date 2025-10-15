@@ -75,9 +75,9 @@ Coming up next:
 
 ## 🧪 Ongoing Experiments
 
-- 🚧 Building a personal dynamic portfolio with animations
-- 📦 API-based movie finder with JS + free movie APIs
-- 🧪 Experimenting with frontend transitions using TailwindCSS
+- 🚧 Building a my final year project
+- 📦 Building a my final year project
+- 🧪 Building a my final year project
 
 ---
 
