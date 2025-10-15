@@ -75,9 +75,9 @@ Coming up next:
 
 ## 🧪 Ongoing Experiments
 
-- 🚧 Building a my final year project
-- 📦 Building a my final year project
-- 🧪 Building a my final year project
+- 🚧 Building  my final year project
+- 📦 Building  my final year project
+- 🧪 Building  my final year project
 
 ---
 
