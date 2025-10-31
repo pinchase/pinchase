@@ -1,6 +1,6 @@
 # 👋 Hi there, Welcome to my GitHub Profile!
 
-I'm **KAGIRI PETERSON AlIaS Pinchase** — an ICT student at KCA University, Backend Intern at TunaresQ, and a future full-stack beast in the making 💻🌍.
+I'm **KAGIRI PETERSON AliaS Pinchase** — an ICT student at KCA University, Backend Intern at TunaresQ, and a future full-stack beast in the making 💻🌍.
 
 [![Made by pinchase](https://img.shields.io/badge/Made%20with❤️%20by-pinchase-blue?style=flat-square)](https://github.com/pinchase)
 [![Backend Intern](https://img.shields.io/badge/Role-Backend%20Dev%20Intern-purple?style=flat-square)](https://github.com/pinchase)
