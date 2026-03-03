@@ -81,7 +81,7 @@ Coming up next:
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - ✅ Land freelance/backend jobs on Upwork
 - ✅ Launch at least 2 production-ready full-stack apps
