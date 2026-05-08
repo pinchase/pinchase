@@ -24,6 +24,15 @@ I'm **KAGIRI PETERSON AliaS Pinchase** — an ICT student at KCA University, Bac
 
 ## 📁 Featured Projects
 
+### 🎓 **UNIPEER – Academic Collaboration & Resource Sharing Platform**
+> A university-centered platform designed to improve peer collaboration, academic resource sharing, and student engagement through a centralized digital system.
+
+- 🔧 **Stack:** Django, PostgreSQL, JavaScript, HTML/CSS, Render  
+- 🌐 **Features:** Notes & resources upload, peer collaboration, course-based categorization, skill tagging, admin resource management  
+- 🔗 [View Repo](https://github.com/pinchase/UNIPEER-FRONTEND)
+- 🚀 [Live Demo](https://unipeer-frontend.vercel.app/index.html)
+
+
 ### 🚌 **Bus Booking System**
 > A platform tackling long queues in Nairobi through online bus booking.
 
@@ -46,13 +55,6 @@ I'm **KAGIRI PETERSON AliaS Pinchase** — an ICT student at KCA University, Bac
 - 🔧 **Stack:** Django, Twilio API, MySQL  
 - 🔗 [View Repo](https://github.com/pinchase/doctor-appointment)
 - 
-### 🎓 **UNIPEER – Academic Collaboration & Resource Sharing Platform**
-> A university-centered platform designed to improve peer collaboration, academic resource sharing, and student engagement through a centralized digital system.
-
-- 🔧 **Stack:** Django, PostgreSQL, JavaScript, HTML/CSS, Render  
-- 🌐 **Features:** Notes & resources upload, peer collaboration, course-based categorization, skill tagging, admin resource management  
-- 🔗 [View Repo](https://github.com/pinchase/UNIPEER-FRONTEND)
-- 🚀 [Live Demo](https://unipeer-frontend.vercel.app/index.html)
 
 
 ### 🧑‍🌾 **Agro-Tourism & Farming Hub**
