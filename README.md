@@ -3,7 +3,7 @@
 I'm **KAGIRI PETERSON AliaS Pinchase** — an ICT student at KCA University, Intern at Braymell, and a future full-stack beast in the making 💻🌍.
 
 [![Made by pinchase](https://img.shields.io/badge/Made%20with❤️%20by-pinchase-blue?style=flat-square)](https://github.com/pinchase)
-[![Backend Intern](https://img.shields.io/badge/Role-Backend%20Dev%20Intern-purple?style=flat-square)](https://github.com/pinchase)
+[![IT Intern](https://img.shields.io/badge/Role-IT%20Dev%20Intern-purple?style=flat-square)](https://github.com/pinchase)
 [![Student](https://img.shields.io/badge/Student-KCA%20University-orange?style=flat-square)](https://kca.ac.ke)
 [![Python](https://img.shields.io/badge/Python-3.x-yellow?style=flat-square&logo=python)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-Web%20Framework-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
