@@ -1,129 +1,244 @@
-# 👋 Hi there, Welcome to my GitHub Profile!
+# 👋 Hi, I'm Peterson Kagiri (Pinchase)
 
-I'm **KAGIRI PETERSON AliaS Pinchase** — an ICT student at KCA University, Intern at Braymell, and a future full-stack beast in the making 💻🌍.
+### Full-Stack Software Developer | Django Developer | ICT Student at KCA University
 
-[![Made by pinchase](https://img.shields.io/badge/Made%20with❤️%20by-pinchase-blue?style=flat-square)](https://github.com/pinchase)
-[![IT Intern](https://img.shields.io/badge/Role-IT%20Dev%20Intern-purple?style=flat-square)](https://github.com/pinchase)
-[![Student](https://img.shields.io/badge/Student-KCA%20University-orange?style=flat-square)](https://kca.ac.ke)
-[![Python](https://img.shields.io/badge/Python-3.x-yellow?style=flat-square&logo=python)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/Django-Web%20Framework-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+I'm passionate about building software that solves real-world problems. From enterprise management systems and academic collaboration platforms to business websites and internal dashboards, I enjoy transforming ideas into scalable, user-friendly applications.
+
+Currently, I'm an **IT Development Intern at Braymell Limited**, where I contribute to business software, frontend integrations, database-driven applications, and modern web solutions while continuously sharpening my software engineering skills.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Working on personal + collaborative software projects to build experience and community value.
-- 🌱 Deep diving into full-stack dev with Django, JS, and modern frontend practices.
-- 👯 Always down to collaborate on open source and dope ideas.
-- 💬 Hit me up to talk tech, backend systems, or startups.
-- 📫 Reach me via [GitHub](https://github.com/pinchase) or email (kagiripeterson8404@gmail.com).
-- ⚡ Fun fact: I write clean code but make dirty jokes (😅... just in dev chats).
+- 💻 Full-stack developer focused on Django, JavaScript, PostgreSQL, and modern web technologies.
+- 🎓 ICT Student at KCA University.
+- 🏢 IT Development Intern at Braymell Limited.
+- 🌱 Constantly learning better software architecture, clean code practices, UI/UX, and cloud deployment.
+- 🤝 Open to collaborating on open-source projects, startups, and innovative software ideas.
+- 🎯 My goal is to become a world-class Software Engineer building products that impact millions.
 
 ---
 
-## 📁 Featured Projects
+## 🛠 Tech Stack
 
-### 🎓 **UNIPEER – Academic Collaboration & Resource Sharing Platform**
-> A university-centered platform designed to improve peer collaboration, academic resource sharing, and student engagement through a centralized digital system.
+### Languages
 
-- 🔧 **Stack:** Django, PostgreSQL, JavaScript, HTML/CSS, Render  
-- 🌐 **Features:** Notes & resources upload, peer collaboration, course-based categorization, skill tagging, admin resource management  
-- 🔗 [View Repo](https://github.com/pinchase/UNIPEER-FRONTEND)
-- 🚀 [Live Demo](https://unipeer-frontend.vercel.app/index.html)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### Backend
 
-### 🚌 **Bus Booking System**
-> A platform tackling long queues in Nairobi through online bus booking.
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![REST API](https://img.shields.io/badge/REST-API-green?style=for-the-badge)
 
-- 🔧 **Stack:** Django, MySQL, JavaScript, HTML/CSS  
-- 🔗 [View Repo](https://github.com/pinchase/bus-booking-system)
+### Databases
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
+### Tools & Platforms
 
-### 🎓 **School Management Platform**
-> System for registering students, assigning teachers, and connecting with parents.
-
-- 🔧 **Stack:** Django, MySQL, Bootstrap, Vanilla JS  
-- 🔗 [View Repo](https://github.com/pinchase/school-mgmt)
-
-
-
-### 🩺 **Doctor Appointment Manager**
-> Patients book appointments online and get SMS reminders before visit.
-
-- 🔧 **Stack:** Django, Twilio API, MySQL  
-- 🔗 [View Repo](https://github.com/pinchase/doctor-appointment)
-- 
-
-
-### 🧑‍🌾 **Agro-Tourism & Farming Hub**
-> All-in-one platform for tours, shops, and farming showcases.
-
-- 🔧 **Stack:** Django, HTML, CSS, JS  
-- 🔗 [View Repo](https://github.com/pinchase/agrotour-hub)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
 ---
 
-## 🧠 My Learning Journey
+## 💼 Professional Experience
 
-Currently learning:
+### ICT Intern — Braymell TradeMastersLimited
 
-- ✅ Django + REST APIs
-- ✅ JavaScript (async, fetch API, ES6+)
-- ✅ UI/UX design (Figma, wireframes, mockups)
-- ✅ Git workflows (PRs, branching, contributions)
+During my internship, I have contributed to the development and maintenance of business software solutions used internally and by clients.
 
-Coming up next:
+#### Highlights
 
-- 🔄 React.js
-- 🔄 Docker & deployment (Heroku, Render, etc.)
-- 🔄 Automated testing in Django
-
----
-
-## 🧪 Ongoing Experiments
-
-- 🚧 Building  my final year project
-- 📦 Building  my final year project
-- 🧪 Building  my final year project
+- Built responsive frontend interfaces.
+- Connected frontend applications with backend APIs.
+- Worked with Supabase databases and authentication.
+- Designed reusable UI components.
+- Improved application usability and user experience.
+- Participated in debugging, testing, and deployment.
+- Collaborated with developers using Git and GitHub workflows.
 
 ---
 
-## 🎯 2026 Goals
+## 🌟 Featured Projects
 
-- ✅ Land freelance/backend jobs on Upwork
-- ✅ Launch at least 2 production-ready full-stack apps
-- 🔄 Join 3+ open-source projects
-- 🔄 Master React and ship a custom portfolio site
-- 🔄 Build and host a REST API with CI/CD
+### 🎓 UNIPEER — Academic Collaboration Platform
 
----
+A full-stack platform that enables university students to collaborate academically through shared learning resources.
 
-## 📈 GitHub Stats
+#### Features
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pinchase&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pinchase&layout=compact&theme=default)
+- Student authentication
+- Course-based organization
+- Resource uploads
+- Skill tagging
+- Admin moderation
+- Responsive UI
 
----
+**Tech Stack**
+- Django
+- PostgreSQL
+- JavaScript
+- HTML/CSS
+- Vercel
+- Render
 
-## 🌐 Connect with Me
-
-- [GitHub](https://github.com/pinchase)
-- [LinkedIn](https://linkedin.com/in/peterson-kagiri)
-- [Twitter](https://twitter.com/pin_chase) 
-- [Portfolio](https://mohpinchase.github.io/Final_portifolio/)
-
----
-
-## 💬 Feedback
-
-> *"pinchase is sharp, consistent, and always pushes for clean code with purpose."*  
-— *TunaresQ Dev Team*
-
-> *"Solid backend guy. Helped us solve our project deadline with Django APIs that just worked."*  
-— *Fellow student @KCA*
+🔗 Repository: https://github.com/pinchase/UNIPEER-FRONTEND  
+🌐 Live Demo: https://unipeer-frontend.vercel.app
 
 ---
 
-*Thank you for scrolling this far. Let’s build together, collab on something fresh, or just vibe over code ☕.*
+
+### 🚌 Bus Booking System
+
+A web-based transport reservation platform reducing long queues by allowing passengers to book buses online.
+
+#### Features
+
+- Online booking
+- Seat reservation
+- Admin management
+- User authentication
+
+**Tech Stack**
+- Django
+- MySQL
+- JavaScript
+
+🔗 Repository: https://github.com/pinchase/bus-booking-system
+
+---
+
+### 🎓 School Management System
+
+A centralized platform for managing students, teachers, parents, and academic records.
+
+#### Features
+
+- Student registration
+- Teacher management
+- Parent portal
+- Reports
+- Authentication
+
+🔗 Repository: https://github.com/pinchase/school-mgmt
+
+---
+
+### 🩺 Doctor Appointment Manager
+
+Healthcare appointment management platform with automated SMS reminders.
+
+#### Features
+
+- Online appointments
+- SMS notifications
+- Patient management
+- Doctor scheduling
+
+🔗 Repository: https://github.com/pinchase/doctor-appointment
+
+---
+
+### 🌿 Agro-Tourism & Farming Hub
+
+A digital platform promoting agriculture, tourism, and farm businesses.
+
+#### Features
+
+- Farm listings
+- Tourism packages
+- Product showcase
+- Responsive design
+
+🔗 Repository: https://github.com/pinchase/agrotour-hub
+
+---
+### 📚 Library Management System
+
+A comprehensive library management platform designed to streamline book cataloging, borrowing, returns, and member management for schools, universities, and public libraries.
+
+#### Features
+
+- Book catalog and inventory management
+- Member registration and management
+- Book borrowing and return tracking
+- Search and filter books by title, author, or category
+- Due date and overdue book management
+- Administrator dashboard with library analytics
+- Responsive and user-friendly interface
+
+🔗 Repository: https://github.com/pinchase/library-management-system
+
+---
+
+## 📈 GitHub Analytics
+
+![Stats](https://github-readme-stats.vercel.app/api?username=pinchase&show_icons=true&count_private=true)
+
+![Streak](https://streak-stats.demolab.com?user=pinchase)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pinchase&layout=compact)
+
+---
+
+## 🏆 Achievements
+
+- 💼 IT Development Intern at Braymell Limited
+- 🎓 ICT Student at KCA University
+- 🚀 Built multiple full-stack web applications
+- 🌐 Deployed projects using Vercel and Render
+- 📚 Experienced with Django, PostgreSQL, MySQL, and JavaScript
+- 🤝 Active GitHub collaborator
+
+---
+
+## 📚 Currently Learning
+
+- React.js
+- Docker
+- CI/CD with GitHub Actions
+- Automated Testing
+- Software Architecture
+- Design Systems
+
+---
+
+## 🎯 2026 Roadmap
+
+- Launch two production-ready SaaS products
+- Contribute to major open-source projects
+- Master React and modern frontend architecture
+- Learn Docker and Kubernetes fundamentals
+- Build scalable REST APIs
+- Secure freelance software development clients
+- Continue growing as a backend and full-stack engineer
+
+---
+
+## 🤝 Let's Connect
+
+🐙 GitHub: https://github.com/pinchase
+
+💼 LinkedIn: https://linkedin.com/in/peterson-kagiri
+
+🌐 Portfolio: https://mohpinchase.github.io/Final_portifolio/
+
+📧 Email: [kagiripeterson8404@gmail.com](mailto:kagiripeterson8404@gmail.com)
+
+---
+
+## 💡 Developer Philosophy
+
+> "Great software isn't built by writing more code—it's built by solving the right problems with clean architecture, thoughtful design, and continuous learning."
+
+---
+
+⭐ If you like my work, consider starring a repository or reaching out to collaborate on something meaningful.
