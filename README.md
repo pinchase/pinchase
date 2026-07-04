@@ -4,7 +4,7 @@
 
 I'm passionate about building software that solves real-world problems. From enterprise management systems and academic collaboration platforms to business websites and internal dashboards, I enjoy transforming ideas into scalable, user-friendly applications.
 
-Currently, I'm an **IT Development Intern at Braymell Limited**, where I contribute to business software, frontend integrations, database-driven applications, and modern web solutions while continuously sharpening my software engineering skills.
+Currently, I'm an **ICT Intern at Braymell Limited**, where I contribute to business software, frontend integrations, database-driven applications, and modern web solutions while continuously sharpening my software engineering skills.
 
 ---
 
