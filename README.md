@@ -67,6 +67,23 @@ During my internship, I have contributed to the development and maintenance of b
 
 ---
 
+## 🚧 Currently Building
+
+🧠 GitMind
+
+An AI-powered Git assistant that understands repository changes,
+writes meaningful commit messages,
+and automates Git workflows.
+
+Current Focus
+
+- Git Internals
+- AI Agents
+- CLI Engineering
+- Software Architecture
+
+---
+
 ## 🌟 Featured Projects
 
 ### 🎓 UNIPEER — Academic Collaboration Platform
